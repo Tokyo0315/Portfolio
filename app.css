@@ -452,6 +452,18 @@ p {
 /* ----------------------------------------------------
    MEDIA QUERIES
 ---------------------------------------------------- */
+@media (max-width: 480px) {
+    #myName {
+        font-size: 3.5em !important;
+        white-space: normal !important;
+    }
+    #headingH1 {
+        font-size: 4em !important;
+        white-space: normal !important;
+    }
+}
+
+
 @media (max-width: 575px) {
     #myName {
         font-size: 6em;
@@ -592,4 +604,5 @@ p {
     .details {
         margin-top: 0.5em;
     }
+
 }
