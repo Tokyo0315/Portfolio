@@ -454,11 +454,11 @@ p {
 ---------------------------------------------------- */
 @media (max-width: 480px) {
     #myName {
-        font-size: 3.5em !important;
+        font-size: 3em !important;
         white-space: normal !important;
     }
     #headingH1 {
-        font-size: 4em !important;
+        font-size: 3.5em !important;
         white-space: normal !important;
     }
 }
@@ -606,3 +606,4 @@ p {
     }
 
 }
+
