@@ -432,7 +432,7 @@ p {
     }
 
     to {
-        width: 8ch;
+        width: 7ch;
     }
 }
 
@@ -461,6 +461,16 @@ p {
         font-size: 4em !important;
         white-space: normal !important;
     }
+
+   @keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 8ch;
+    }
+}
 }
 
 
@@ -606,3 +616,4 @@ p {
     }
 
 }
+
