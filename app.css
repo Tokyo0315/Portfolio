@@ -432,7 +432,7 @@ p {
     }
 
     to {
-        width: 7ch;
+        width: 8ch !important;
     }
 }
 
@@ -454,11 +454,11 @@ p {
 ---------------------------------------------------- */
 @media (max-width: 480px) {
     #myName {
-        font-size: 3em !important;
+        font-size: 3.5em !important;
         white-space: normal !important;
     }
     #headingH1 {
-        font-size: 3.5em !important;
+        font-size: 4em !important;
         white-space: normal !important;
     }
 }
@@ -606,5 +606,6 @@ p {
     }
 
 }
+
 
 
